@@ -1,2 +1,4 @@
 this is file2
 added this line
+added another line
+and yet another
